@@ -1,6 +1,6 @@
 # mdmirandaday0
 
-A simple AutoHotkey script for remapping the Copilot key.
+A simple AutoHotkey script for remapping the Copilot key. Requires AutoHotkey 2.0
 ```
 Copilot + Left Arrow = Previous Track
 Copilot + Right Arrow = Next Track
